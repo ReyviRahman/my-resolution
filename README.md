@@ -4,4 +4,4 @@ Repository untuk mennyimpan rencana kedepannya
 tes
 --
 
-[Dokumentasi Pengguna](https://example.com/documentation)
+[https://drive.google.com/file/d/1cCxbGFdiKl4KDPeaePmiaQ9vThgjhAy_/view?usp=drive_link](https://drive.google.com/file/d/1cCxbGFdiKl4KDPeaePmiaQ9vThgjhAy_/view?usp=drive_link)
